@@ -1,0 +1,8 @@
+/********************************************************************************/
+/** UART2: Send example                                                        **/
+/********************************************************************************/
+/** In a terminal window set up a serial connection @115.2kBaud through the    **/
+/** debugger port.                                                             **/
+/** Send "Hello World!" through the STDIO @ 115200 baud                        **/
+/** STDIO uses UART2 P1.1/P1.2 through on-board debugger and VCOM              **/
+/********************************************************************************/
