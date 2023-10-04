@@ -1,0 +1,16 @@
+--cpu Cortex-M3
+".\objects\main.o"
+".\objects\bootrom.o"
+".\objects\int.o"
+".\objects\isr.o"
+".\objects\lin.o"
+".\objects\pmu.o"
+".\objects\port.o"
+".\objects\scu.o"
+".\objects\startup_tle987x.o"
+".\objects\system_tle987x.o"
+".\objects\tle_device.o"
+".\objects\wdt1.o"
+--ro-base 0x11000000 --entry 0x11000000 --rw-base 0x18000018 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\P01_LED.map" -o .\Objects\P01_LED.axf

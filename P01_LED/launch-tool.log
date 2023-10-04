@@ -1,0 +1,45 @@
+2023/08/29 16:51:25 Started Launch Tool 
+2023/08/29 16:51:25 Started as PID 16340
+2023/08/29 16:51:25 Started with arguments []string{"C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\sjang\\Documents\\InfineonBLDC\\P01_LED\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2023/08/29 16:51:25 Started in directory C:\Users\sjang\Documents\InfineonBLDC\P01_LED
+2023/08/29 16:51:25 Reading tool data
+2023/08/29 16:51:25 Reading "C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2023/08/29 16:51:25 Validating tool data
+2023/08/29 16:51:25 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2023/08/29 16:51:25 Starting "C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\sjang\\Documents\\InfineonBLDC\\P01_LED\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2023/08/29 16:51:25 Starting "C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2023/08/29 16:51:25 Started "C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 8700
+2023/08/29 16:51:25 Starting Launcher Service
+2023/08/29 16:51:25 Starting "C:\\Users\\sjang\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2023/08/29 16:51:25 Starting "C:\\Users\\sjang\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\sjang"
+2023/08/29 16:51:25 Started "C:\\Users\\sjang\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 13172
+2023/08/29 17:00:09 Started Launch Tool 
+2023/08/29 17:00:09 Started as PID 5708
+2023/08/29 17:00:09 Started with arguments []string{"C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\sjang\\Documents\\InfineonBLDC\\P01_LED\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2023/08/29 17:00:09 Started in directory C:\Users\sjang\Documents\InfineonBLDC\P01_LED
+2023/08/29 17:00:09 Reading tool data
+2023/08/29 17:00:09 Reading "C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2023/08/29 17:00:09 Validating tool data
+2023/08/29 17:00:09 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2023/08/29 17:00:09 Starting "C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\sjang\\Documents\\InfineonBLDC\\P01_LED\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2023/08/29 17:00:09 Starting "C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2023/08/29 17:00:09 Started "C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 1764
+2023/08/29 17:00:09 Starting Launcher Service
+2023/08/29 17:00:09 Starting "C:\\Users\\sjang\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2023/08/29 17:00:09 Starting "C:\\Users\\sjang\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\sjang"
+2023/08/29 17:00:09 Started "C:\\Users\\sjang\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 23640
+2023/08/29 17:07:55 Started Launch Tool 
+2023/08/29 17:07:55 Started as PID 23860
+2023/08/29 17:07:55 Started with arguments []string{"C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\launch-tool.exe", "C:\\Users\\sjang\\Documents\\InfineonBLDC\\P01_LED\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2023/08/29 17:07:55 Started in directory C:\Users\sjang\Documents\InfineonBLDC\P01_LED
+2023/08/29 17:07:55 Reading tool data
+2023/08/29 17:07:55 Reading "C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\resources\\tool-details.json"
+2023/08/29 17:07:55 Validating tool data
+2023/08/29 17:07:55 Starting tool &main.Tool{FeatureID:"com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics", Title:"Config Wizard for MOTIX� MCU", Version:"2.7.3.202306221148", Path:"C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe"}
+2023/08/29 17:07:55 Starting "C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" with arguments []string{"C:\\Users\\sjang\\Documents\\InfineonBLDC\\P01_LED\\RTE\\Device\\TLE9879QXA40\\config.icwp", "-ddevice=TLE9879QXA40"}
+2023/08/29 17:07:55 Starting "C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" in directory "C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148"
+2023/08/29 17:07:56 Started "C:\\Users\\sjang\\Infineon\\Tools\\Config-Wizard-for-MOTIX-MCU\\2.7.3.202306221148\\/ConfigWizard.exe" as PID 26116
+2023/08/29 17:07:56 Starting Launcher Service
+2023/08/29 17:07:56 Starting "C:\\Users\\sjang\\Infineon\\LauncherService\\idc-launcher-service.exe" with arguments []string{"-featureid", "com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics:2.7.3.202306221148", "-notification", "-toolbox.service", "checkUpdate com.ifx.tb.tool.ifxconfigwizardforembeddedpowerics"}
+2023/08/29 17:07:56 Starting "C:\\Users\\sjang\\Infineon\\LauncherService\\idc-launcher-service.exe" in directory "C:\\Users\\sjang"
+2023/08/29 17:07:56 Started "C:\\Users\\sjang\\Infineon\\LauncherService\\idc-launcher-service.exe" as PID 6332

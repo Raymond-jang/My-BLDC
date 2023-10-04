@@ -1,0 +1,150 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.38.0.0
+Copyright (C) 2022 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: raymond jang, nilfisk, LIC=----
+ 
+Tool Versions:
+Toolchain:       MDK-Lite  Version: 5.38.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCLANG\Bin
+C Compiler:      ArmClang.exe V6.19
+Assembler:       Armasm.exe V6.19
+Linker/Locator:  ArmLink.exe V6.19
+Library Manager: ArmAr.exe V6.19
+Hex Converter:   FromElf.exe V6.19
+CPU DLL:         SARMCM3.DLL V5.38.0.0
+Dialog DLL:      DCM.DLL V1.17.5.0
+Target DLL:      Segger\JL2CM3.dll V2.99.42.0
+Dialog DLL:      TCM.DLL V1.56.4.0
+ 
+<h2>Project:</h2>
+C:\Users\sjang\Documents\InfineonBLDC\P01_LED\P01_LED.uvprojx
+Project File Date:  08/29/2023
+
+<h2>Output:</h2>
+*** Using Compiler 'V6.19', folder: 'C:\Keil_v5\ARM\ARMCLANG\Bin'
+Rebuild target 'Target 1'
+compiling bootrom.c...
+compiling system_tle987x.c...
+compiling port.c...
+compiling lin.c...
+compiling isr.c...
+compiling int.c...
+compiling pmu.c...
+compiling wdt1.c...
+compiling tle_device.c...
+compiling main.c...
+compiling scu.c...
+assembling startup_tle987x.S...
+linking...
+Program Size: Code=2492 RO-data=152 RW-data=0 ZI-data=616  
+".\Objects\P01_LED.axf" - 0 Error(s), 0 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.9.0.pack
+                ARM.CMSIS.5.9.0
+                CMSIS (Common Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.6.0
+
+Package Vendor: Infineon
+                https://itools.infineon.com/cmsis_packs/TLE987x/Infineon.TLE987x_DFP.1.6.0.pack
+                Infineon.TLE987x_DFP.1.6.0
+                Infineon TLE987x Series Device Support
+   * Component: BF-Stepping Version: 0.0.1
+   * Component: ConfigWizard_v2 Version: 2.1.12
+   * Component: BOOTROM Version: 0.3.3
+   * Component: INT Version: 0.2.3
+   * Component: ISR Version: 0.2.9
+   * Component: LIN Version: 0.2.0
+   * Component: PMU Version: 0.2.2
+   * Component: PORT Version: 0.6.0
+   * Component: SCU Version: 0.5.7
+   * Component: WDT1 Version: 0.3.3
+   * Component: Startup Version: 1.2.0
+
+<h2>Collection of Component include folders:</h2>
+  ./RTE/Device/TLE9879QXA40
+  ./RTE/_Target_1
+  C:/Users/sjang/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.6.0
+
+   * Component: Infineon::Device:BF-Stepping:0.0.1
+
+   * Component: Infineon::Device:ConfigWizard_v2:2.1.12
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/uart_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/adc2_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/pmu_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/adc1_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/bdrv_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/timer2x_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/bsl_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/scu_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/lin_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/ssc_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/isr_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/ccu6_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/gpt12e_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/csa_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/mon_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/port_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/dma_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/timer3_defines.h
+      Include file:  Device/SDK/cfgwiz/TLE987x_40/v2/int_defines.h
+
+   * Component: Infineon::Device:SDK:BOOTROM:0.3.3
+      Include file:  Device/SDK/inc/bootrom.h
+      Source file:   Device/SDK/src/bootrom.c
+
+   * Component: Infineon::Device:SDK:INT:0.2.3
+      Include file:  Device/SDK/inc/int.h
+      Source file:   Device/SDK/src/int.c
+
+   * Component: Infineon::Device:SDK:ISR:0.2.9
+      Source file:   Device/SDK/src/isr.c
+      Include file:  Device/SDK/inc/isr.h
+
+   * Component: Infineon::Device:SDK:LIN:0.2.0
+      Source file:   Device/SDK/src/lin.c
+      Include file:  Device/SDK/inc/lin.h
+
+   * Component: Infineon::Device:SDK:PMU:0.2.2
+      Include file:  Device/SDK/inc/pmu.h
+      Source file:   Device/SDK/src/pmu.c
+
+   * Component: Infineon::Device:SDK:PORT:0.6.0
+      Source file:   Device/SDK/src/port.c
+      Include file:  Device/SDK/inc/port.h
+
+   * Component: Infineon::Device:SDK:SCU:0.5.7
+      Source file:   Device/SDK/src/scu.c
+      Include file:  Device/SDK/inc/scu.h
+
+   * Component: Infineon::Device:SDK:WDT1:0.3.3
+      Include file:  Device/SDK/inc/wdt1.h
+      Source file:   Device/SDK/src/wdt1.c
+
+   * Component: Infineon::Device:Startup:1.2.0
+      Source file:   Device/Source/ARM/startup_tle987x.S
+      Source file:   Device/Source/system_tle987x.c
+      Source file:   Device/SDK/app/main.c
+      Include file:  Device/Include/eval_board.h
+      Include file:  Device/Include/tle_device.h
+      Source file:   Device/Source/tle_device.c
+      Source file:   Device/Include/sfr_access.h
+      Include file:  Device/Include/system_tle987x.h
+      Include file:  Device/Include/tle_variants.h
+      Include file:  Device/Include/types.h
+      Include file:  Device/Include/cmsis_misra.h
+      Include file:  Device/Include/tle987x.h
+Build Time Elapsed:  00:00:01
+</pre>
+</body>
+</html>
