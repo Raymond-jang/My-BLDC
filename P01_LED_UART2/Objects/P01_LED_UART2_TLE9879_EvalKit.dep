@@ -1,0 +1,337 @@
+Dependencies for Project 'P01_LED_UART2', Target 'TLE9879_EvalKit': (DO NOT MODIFY !)
+CompilerVersion: 6180000::V6.18::ARMCLANG
+F (.\app\main.c)(0x65138629)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -D__MICROLIB -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/TLE9879QXA40-I./RTE/_TLE9879_EvalKit-IC:/Users/polyn/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/polyn/AppData/Local/Arm/Packs/Infineon/TLE987x_DFP/1.6.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DTLE9879QXA40 -D_RTE_-o ./objects/main.o -MD)
+I (RTE\Device\TLE9879QXA40\tle_device.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\tle_variants.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\tle987x.h)(0x639B5BD8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x627001AE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x627001AE)
+I (RTE\Device\TLE9879QXA40\system_tle987x.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\types.h)(0x63AC816E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+I (RTE\_TLE9879_EvalKit\RTE_Components.h)(0x64EFCCAE)
+I (RTE\Device\TLE9879QXA40\bootrom.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\wdt1.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\scu.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\sfr_access.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\scu_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\pmu.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\adc1.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\adc1_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\adc2.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\adc2_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\ccu6.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\ccu6_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\int.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\isr.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\lin.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\port.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\cmsis_misra.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\uart.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\uart_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\eval_board.h)(0x639B5BD8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x625325B6)
+F (C:/Users/polyn/AppData/Local/Arm/Packs/Keil/ARM_Compiler/1.7.2/Source/retarget_io.c)(0x584EE08E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -D__MICROLIB -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/TLE9879QXA40-I./RTE/_TLE9879_EvalKit-IC:/Users/polyn/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/polyn/AppData/Local/Arm/Packs/Infineon/TLE987x_DFP/1.6.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DTLE9879QXA40 -D_RTE_-o ./objects/retarget_io.o -MD)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x625325B6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x625325B6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x625325B6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\assert.h)(0x625325B6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\rt_sys.h)(0x625325B8)
+I (RTE\_TLE9879_EvalKit\RTE_Components.h)(0x64EFCCAE)
+F (RTE/Device/TLE9879QXA40/ICW_TLE987x.xml)(0x63AC816E)()
+F (RTE/Device/TLE9879QXA40/TLE987x.mig)(0x623CEFCE)()
+F (RTE/Device/TLE9879QXA40/TLE987x.svd)(0x623CEFCE)()
+F (RTE/Device/TLE9879QXA40/adc1.c)(0x6256DE3A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -D__MICROLIB -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/TLE9879QXA40-I./RTE/_TLE9879_EvalKit-IC:/Users/polyn/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/polyn/AppData/Local/Arm/Packs/Infineon/TLE987x_DFP/1.6.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DTLE9879QXA40 -D_RTE_-o ./objects/adc1.o -MD)
+I (RTE\Device\TLE9879QXA40\adc1.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\tle987x.h)(0x639B5BD8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x627001AE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x627001AE)
+I (RTE\Device\TLE9879QXA40\system_tle987x.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\types.h)(0x63AC816E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+I (RTE\Device\TLE9879QXA40\adc1_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\sfr_access.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\adc2.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\adc2_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\tle_variants.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\wdt1.h)(0x63AC816E)
+I (RTE\_TLE9879_EvalKit\RTE_Components.h)(0x64EFCCAE)
+F (RTE/Device/TLE9879QXA40/adc1.h)(0x63AC816E)()
+F (RTE/Device/TLE9879QXA40/adc1_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/adc2.c)(0x6256DE3A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -D__MICROLIB -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/TLE9879QXA40-I./RTE/_TLE9879_EvalKit-IC:/Users/polyn/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/polyn/AppData/Local/Arm/Packs/Infineon/TLE987x_DFP/1.6.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DTLE9879QXA40 -D_RTE_-o ./objects/adc2.o -MD)
+I (RTE\Device\TLE9879QXA40\adc2.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\tle987x.h)(0x639B5BD8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x627001AE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x627001AE)
+I (RTE\Device\TLE9879QXA40\system_tle987x.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\types.h)(0x63AC816E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+I (RTE\Device\TLE9879QXA40\adc2_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\tle_variants.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\sfr_access.h)(0x639B5BD8)
+F (RTE/Device/TLE9879QXA40/adc2.h)(0x639B5BD8)()
+F (RTE/Device/TLE9879QXA40/adc2_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/bdrv_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/bootrom.c)(0x6256DE3A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -D__MICROLIB -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/TLE9879QXA40-I./RTE/_TLE9879_EvalKit-IC:/Users/polyn/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/polyn/AppData/Local/Arm/Packs/Infineon/TLE987x_DFP/1.6.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DTLE9879QXA40 -D_RTE_-o ./objects/bootrom.o -MD)
+I (RTE\Device\TLE9879QXA40\bootrom.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\types.h)(0x63AC816E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+I (RTE\_TLE9879_EvalKit\RTE_Components.h)(0x64EFCCAE)
+I (RTE\Device\TLE9879QXA40\wdt1.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\tle987x.h)(0x639B5BD8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x627001AE)
+I (RTE\Device\TLE9879QXA40\system_tle987x.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\cmsis_misra.h)(0x639B5BD8)
+F (RTE/Device/TLE9879QXA40/bootrom.h)(0x63AC816E)()
+F (RTE/Device/TLE9879QXA40/bsl_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/ccu6.c)(0x6256DE3A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -D__MICROLIB -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/TLE9879QXA40-I./RTE/_TLE9879_EvalKit-IC:/Users/polyn/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/polyn/AppData/Local/Arm/Packs/Infineon/TLE987x_DFP/1.6.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DTLE9879QXA40 -D_RTE_-o ./objects/ccu6.o -MD)
+I (RTE\Device\TLE9879QXA40\ccu6.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\tle987x.h)(0x639B5BD8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x627001AE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x627001AE)
+I (RTE\Device\TLE9879QXA40\system_tle987x.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\types.h)(0x63AC816E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+I (RTE\Device\TLE9879QXA40\ccu6_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\sfr_access.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\tle_variants.h)(0x639B5BD8)
+F (RTE/Device/TLE9879QXA40/ccu6.h)(0x63AC816E)()
+F (RTE/Device/TLE9879QXA40/ccu6_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/cmsis_misra.h)(0x639B5BD8)()
+F (RTE/Device/TLE9879QXA40/config.icwp)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/csa_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/dma_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/eval_board.h)(0x639B5BD8)()
+F (RTE/Device/TLE9879QXA40/gpt12e_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/int.c)(0x6256DE3A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -D__MICROLIB -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/TLE9879QXA40-I./RTE/_TLE9879_EvalKit-IC:/Users/polyn/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/polyn/AppData/Local/Arm/Packs/Infineon/TLE987x_DFP/1.6.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DTLE9879QXA40 -D_RTE_-o ./objects/int.o -MD)
+I (RTE\Device\TLE9879QXA40\int.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\tle987x.h)(0x639B5BD8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x627001AE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x627001AE)
+I (RTE\Device\TLE9879QXA40\system_tle987x.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\types.h)(0x63AC816E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+I (RTE\Device\TLE9879QXA40\tle_variants.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\sfr_access.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\int_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\scu_defines.h)(0x64EFCC88)
+I (RTE\_TLE9879_EvalKit\RTE_Components.h)(0x64EFCCAE)
+F (RTE/Device/TLE9879QXA40/int.h)(0x639B5BD8)()
+F (RTE/Device/TLE9879QXA40/int_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/isr.c)(0x6256DE3A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -D__MICROLIB -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/TLE9879QXA40-I./RTE/_TLE9879_EvalKit-IC:/Users/polyn/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/polyn/AppData/Local/Arm/Packs/Infineon/TLE987x_DFP/1.6.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DTLE9879QXA40 -D_RTE_-o ./objects/isr.o -MD)
+I (RTE\Device\TLE9879QXA40\tle_device.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\tle_variants.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\tle987x.h)(0x639B5BD8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x627001AE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x627001AE)
+I (RTE\Device\TLE9879QXA40\system_tle987x.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\types.h)(0x63AC816E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+I (RTE\_TLE9879_EvalKit\RTE_Components.h)(0x64EFCCAE)
+I (RTE\Device\TLE9879QXA40\bootrom.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\wdt1.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\scu.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\sfr_access.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\scu_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\pmu.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\adc1.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\adc1_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\adc2.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\adc2_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\ccu6.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\ccu6_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\int.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\isr.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\lin.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\port.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\cmsis_misra.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\uart.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\uart_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\int_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\isr_defines.h)(0x64EFCC88)
+F (RTE/Device/TLE9879QXA40/isr.h)(0x639B5BD8)()
+F (RTE/Device/TLE9879QXA40/isr_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/lin.c)(0x6256DF96)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -D__MICROLIB -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/TLE9879QXA40-I./RTE/_TLE9879_EvalKit-IC:/Users/polyn/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/polyn/AppData/Local/Arm/Packs/Infineon/TLE987x_DFP/1.6.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DTLE9879QXA40 -D_RTE_-o ./objects/lin.o -MD)
+I (RTE\Device\TLE9879QXA40\lin.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\tle987x.h)(0x639B5BD8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x627001AE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x627001AE)
+I (RTE\Device\TLE9879QXA40\system_tle987x.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\types.h)(0x63AC816E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+I (RTE\Device\TLE9879QXA40\sfr_access.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\lin_defines.h)(0x64EFCC88)
+F (RTE/Device/TLE9879QXA40/lin.h)(0x639B5BD8)()
+F (RTE/Device/TLE9879QXA40/lin_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/mon_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/pmu.c)(0x63AC816E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -D__MICROLIB -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/TLE9879QXA40-I./RTE/_TLE9879_EvalKit-IC:/Users/polyn/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/polyn/AppData/Local/Arm/Packs/Infineon/TLE987x_DFP/1.6.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DTLE9879QXA40 -D_RTE_-o ./objects/pmu.o -MD)
+I (RTE\Device\TLE9879QXA40\pmu.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\tle987x.h)(0x639B5BD8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x627001AE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x627001AE)
+I (RTE\Device\TLE9879QXA40\system_tle987x.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\types.h)(0x63AC816E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+I (RTE\Device\TLE9879QXA40\sfr_access.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\wdt1.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\cmsis_misra.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\pmu_defines.h)(0x64EFCC88)
+I (RTE\_TLE9879_EvalKit\RTE_Components.h)(0x64EFCCAE)
+F (RTE/Device/TLE9879QXA40/pmu.h)(0x63AC816E)()
+F (RTE/Device/TLE9879QXA40/pmu_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/port.c)(0x6256DF96)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -D__MICROLIB -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/TLE9879QXA40-I./RTE/_TLE9879_EvalKit-IC:/Users/polyn/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/polyn/AppData/Local/Arm/Packs/Infineon/TLE987x_DFP/1.6.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DTLE9879QXA40 -D_RTE_-o ./objects/port.o -MD)
+I (RTE\Device\TLE9879QXA40\port.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\tle987x.h)(0x639B5BD8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x627001AE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x627001AE)
+I (RTE\Device\TLE9879QXA40\system_tle987x.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\types.h)(0x63AC816E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+I (RTE\Device\TLE9879QXA40\cmsis_misra.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\sfr_access.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\port_defines.h)(0x64EFCC88)
+F (RTE/Device/TLE9879QXA40/port.h)(0x639B5BD8)()
+F (RTE/Device/TLE9879QXA40/port_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/scu.c)(0x6256DE3A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -D__MICROLIB -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/TLE9879QXA40-I./RTE/_TLE9879_EvalKit-IC:/Users/polyn/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/polyn/AppData/Local/Arm/Packs/Infineon/TLE987x_DFP/1.6.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DTLE9879QXA40 -D_RTE_-o ./objects/scu.o -MD)
+I (RTE\Device\TLE9879QXA40\scu.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\tle987x.h)(0x639B5BD8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x627001AE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x627001AE)
+I (RTE\Device\TLE9879QXA40\system_tle987x.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\types.h)(0x63AC816E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+I (RTE\Device\TLE9879QXA40\sfr_access.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\scu_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\wdt1.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\lin.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\bootrom.h)(0x63AC816E)
+I (RTE\_TLE9879_EvalKit\RTE_Components.h)(0x64EFCCAE)
+I (RTE\Device\TLE9879QXA40\pmu_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\cmsis_misra.h)(0x639B5BD8)
+F (RTE/Device/TLE9879QXA40/scu.h)(0x63AC816E)()
+F (RTE/Device/TLE9879QXA40/scu_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/sfr_access.h)(0x639B5BD8)()
+F (RTE/Device/TLE9879QXA40/ssc_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/startup_tle987x.S)(0x6256DE3A)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --pd "__MICROLIB SETA 1"-I.\RTE\Device\TLE9879QXA40-I.\RTE\_TLE9879_EvalKit-IC:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\polyn\AppData\Local\Arm\Packs\Infineon\TLE987x_DFP\1.6.0\Device\Include--pd "__UVISION_VERSION SETA 537"--pd "_RTE_ SETA 1"--pd "TLE9879QXA40 SETA 1"--pd "_RTE_ SETA 1"--list .\listings\startup_tle987x.lst--xref -o .\objects\startup_tle987x.o--depend .\objects\startup_tle987x.d)
+F (RTE/Device/TLE9879QXA40/system_tle987x.c)(0x63AC816E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -D__MICROLIB -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/TLE9879QXA40-I./RTE/_TLE9879_EvalKit-IC:/Users/polyn/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/polyn/AppData/Local/Arm/Packs/Infineon/TLE987x_DFP/1.6.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DTLE9879QXA40 -D_RTE_-o ./objects/system_tle987x.o -MD)
+I (RTE\Device\TLE9879QXA40\tle987x.h)(0x639B5BD8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x627001AE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x627001AE)
+I (RTE\Device\TLE9879QXA40\system_tle987x.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\types.h)(0x63AC816E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+I (RTE\Device\TLE9879QXA40\bsl_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\scu.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\sfr_access.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\scu_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\wdt1.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\tle_variants.h)(0x639B5BD8)
+I (RTE\_TLE9879_EvalKit\RTE_Components.h)(0x64EFCCAE)
+F (RTE/Device/TLE9879QXA40/system_tle987x.h)(0x63AC816E)()
+F (RTE/Device/TLE9879QXA40/timer2x_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/timer3_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/tle987x.h)(0x639B5BD8)()
+F (RTE/Device/TLE9879QXA40/tle_device.c)(0x63AC816E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -D__MICROLIB -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/TLE9879QXA40-I./RTE/_TLE9879_EvalKit-IC:/Users/polyn/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/polyn/AppData/Local/Arm/Packs/Infineon/TLE987x_DFP/1.6.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DTLE9879QXA40 -D_RTE_-o ./objects/tle_device.o -MD)
+I (RTE\Device\TLE9879QXA40\tle_device.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\tle_variants.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\tle987x.h)(0x639B5BD8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x627001AE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x627001AE)
+I (RTE\Device\TLE9879QXA40\system_tle987x.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\types.h)(0x63AC816E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+I (RTE\_TLE9879_EvalKit\RTE_Components.h)(0x64EFCCAE)
+I (RTE\Device\TLE9879QXA40\bootrom.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\wdt1.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\scu.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\sfr_access.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\scu_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\pmu.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\adc1.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\adc1_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\adc2.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\adc2_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\ccu6.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\ccu6_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\int.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\isr.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\lin.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\port.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\cmsis_misra.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\uart.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\uart_defines.h)(0x64EFCC88)
+F (RTE/Device/TLE9879QXA40/tle_device.h)(0x63AC816E)()
+F (RTE/Device/TLE9879QXA40/tle_variants.h)(0x639B5BD8)()
+F (RTE/Device/TLE9879QXA40/types.h)(0x63AC816E)()
+F (RTE/Device/TLE9879QXA40/uart.c)(0x6256DE3A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -D__MICROLIB -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/TLE9879QXA40-I./RTE/_TLE9879_EvalKit-IC:/Users/polyn/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/polyn/AppData/Local/Arm/Packs/Infineon/TLE987x_DFP/1.6.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DTLE9879QXA40 -D_RTE_-o ./objects/uart.o -MD)
+I (RTE\Device\TLE9879QXA40\uart.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\tle987x.h)(0x639B5BD8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x627001AE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x627001AE)
+I (RTE\Device\TLE9879QXA40\system_tle987x.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\types.h)(0x63AC816E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+I (RTE\Device\TLE9879QXA40\uart_defines.h)(0x64EFCC88)
+I (RTE\Device\TLE9879QXA40\sfr_access.h)(0x639B5BD8)
+I (RTE\Device\TLE9879QXA40\wdt1.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\scu_defines.h)(0x64EFCC88)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x625325B6)
+F (RTE/Device/TLE9879QXA40/uart.h)(0x63AC816E)()
+F (RTE/Device/TLE9879QXA40/uart_defines.h)(0x64EFCC88)()
+F (RTE/Device/TLE9879QXA40/wdt1.c)(0x6256DE3A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -D__MICROLIB -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/TLE9879QXA40-I./RTE/_TLE9879_EvalKit-IC:/Users/polyn/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/polyn/AppData/Local/Arm/Packs/Infineon/TLE987x_DFP/1.6.0/Device/Include-D__UVISION_VERSION="537" -D_RTE_ -DTLE9879QXA40 -D_RTE_-o ./objects/wdt1.o -MD)
+I (RTE\Device\TLE9879QXA40\wdt1.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\types.h)(0x63AC816E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x625325B8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x625325B6)
+I (RTE\Device\TLE9879QXA40\tle987x.h)(0x639B5BD8)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x627001AE)
+I (C:\Users\polyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x627001AE)
+I (RTE\Device\TLE9879QXA40\system_tle987x.h)(0x63AC816E)
+I (RTE\Device\TLE9879QXA40\scu_defines.h)(0x64EFCC88)
+F (RTE/Device/TLE9879QXA40/wdt1.h)(0x63AC816E)()
